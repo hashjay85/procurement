@@ -1,0 +1,17 @@
+<NotepadPlus>
+    <Project name="proc">
+        <File name="C:\xampp\htdocs\proc\about.php" />
+        <File name="C:\xampp\htdocs\proc\contact.php" />
+        <File name="C:\xampp\htdocs\proc\index.php" />
+        <Folder name="includes">
+            <File name="a_config.php" />
+            <File name="design-top.php" />
+            <File name="footer.php" />
+            <File name="head-tag-contents.php" />
+            <File name="navigation.php" />
+        </Folder>
+        <File name="C:\xampp\htdocs\proc\home.php" />
+        <File name="C:\xampp\htdocs\proc\reg.php" />
+        <File name="C:\xampp\htdocs\proc\proj.php" />
+    </Project>
+</NotepadPlus>
